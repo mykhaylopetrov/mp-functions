@@ -1,4 +1,4 @@
-# Replacing the WordPress functions.php File for Securely Adding Custom PHP Code.
+# Replacing the WordPress functions.php file for securely adding custom PHP code.
 
 How to work with the plugin:
 
